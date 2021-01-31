@@ -1,0 +1,8 @@
+# IntelliJ project files
+.idea
+
+# Python virtual env
+venv
+
+# Personnal
+*.log
